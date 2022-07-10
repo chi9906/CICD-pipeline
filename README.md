@@ -1,2 +1,1 @@
-a fully automated CICD pipeline deployment from balaraju golla
-second attempt hellow balaraju golla
+This is a simple Jenkins file for Securtiy group deployment in my AWS account using Terraform 
